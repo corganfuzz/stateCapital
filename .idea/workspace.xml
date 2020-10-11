@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb12bfab-a9b6-418d-805d-dde99851d661" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ihRQ3UdOPM1bR1j1hnRZYzUgHk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="basicSets.Main" />
+      <module name="stateCapital" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb12bfab-a9b6-418d-805d-dde99851d661" name="Default Changelist" comment="" />
+      <created>1602357820436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602357820436</updated>
+      <workItem from="1602357821484" duration="24090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2082" height="873" key="GridCell.Tab.0.bottom" timestamp="1602386059598">
+      <screen x="3840" y="0" width="2160" height="3840" />
+    </state>
+    <state width="2082" height="873" key="GridCell.Tab.0.bottom/6000.853.3840.2160/0.891.3840.1953/3840.0.2160.3840@3840.0.2160.3840" timestamp="1602386059598" />
+    <state width="2082" height="873" key="GridCell.Tab.0.center" timestamp="1602386059598">
+      <screen x="3840" y="0" width="2160" height="3840" />
+    </state>
+    <state width="2082" height="873" key="GridCell.Tab.0.center/6000.853.3840.2160/0.891.3840.1953/3840.0.2160.3840@3840.0.2160.3840" timestamp="1602386059598" />
+    <state width="2082" height="873" key="GridCell.Tab.0.left" timestamp="1602386059598">
+      <screen x="3840" y="0" width="2160" height="3840" />
+    </state>
+    <state width="2082" height="873" key="GridCell.Tab.0.left/6000.853.3840.2160/0.891.3840.1953/3840.0.2160.3840@3840.0.2160.3840" timestamp="1602386059598" />
+    <state width="2082" height="873" key="GridCell.Tab.0.right" timestamp="1602386059598">
+      <screen x="3840" y="0" width="2160" height="3840" />
+    </state>
+    <state width="2082" height="873" key="GridCell.Tab.0.right/6000.853.3840.2160/0.891.3840.1953/3840.0.2160.3840@3840.0.2160.3840" timestamp="1602386059598" />
+    <state x="4402" y="929" width="1031" height="1470" key="search.everywhere.popup" timestamp="1602369232866">
+      <screen x="3840" y="0" width="2160" height="3840" />
+    </state>
+    <state x="4402" y="929" width="1031" height="1470" key="search.everywhere.popup/6000.853.3840.2160/0.891.3840.1953/3840.0.2160.3840@3840.0.2160.3840" timestamp="1602369232866" />
+  </component>
+</project>
